@@ -14,7 +14,6 @@ import MySQLdb as mdb
 from selenium import webdriver
 from pyquery import PyQuery as pq
 from elasticsearch import Elasticsearch
-import change
 from pyvirtualdisplay import Display
 from captchaservice import captchaservice
 import os
